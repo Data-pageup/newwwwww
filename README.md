@@ -1,4 +1,4 @@
-# Generative Workflow AI ( yet to be uploaded)
+# Generative Workflow AI ( code files yet to be uploaded)
 
 AI-powered health and career tools built with **Google Gemini 2.5 Flash**, **LangChain**, and **Streamlit**.
 
